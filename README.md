@@ -115,7 +115,7 @@ python scraper.py https://huntr.com/repos/orgs/repo \
   --no-selenium --delay 0.5 1.0 --no-verify
 ```
 
-# Output Format
+## Output Format
 Each repo produces a single JSON:
 ```json
 {
