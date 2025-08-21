@@ -4,9 +4,9 @@ Scrape **valid** Huntr bounty reports (severity: `critical|high|medium|low`) fro
 
 ```
 reports/
-triton-server.json
-llama_index.json
-another-repo.json
+repo.json
+repo2.json
+repo3.json
 ```
 
 
